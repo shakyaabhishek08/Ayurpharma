@@ -103,17 +103,3 @@ AyurPharma/
 ├── llm_service/
 ├── ml_service/
 └── README.md
-For Installation
-git clone https://github.com/yourusername/AyurPharma.git
-cd AyurPharma
-for backend "cd backend
-npm install
-npm run dev
-for Frontend
-cd frontend
-npm install
-npm run dev
-for admin
-cd admin
-npm install
-npm run dev
