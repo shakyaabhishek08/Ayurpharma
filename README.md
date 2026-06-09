@@ -77,7 +77,21 @@ AI Services:
 - NumPy
 
 ---
-
+In Backend create 
+.env file and code is 
+MONGODB_URI=
+JWT_SECRET=
+ADMIN_EMAIL=
+ADMIN_PASSWORD=
+and also in frontend create 
+.env file 
+GROQ_API_KEY=
+and also in llm services:
+.env file code is :
+GROQ_API_KEY=
+For Admin panel 
+.env file code is 
+VITE_BACKEND_URL=http://localhost:4000
 ## 📂 Project Structure
 
 ```text
