@@ -75,7 +75,13 @@ AI Services:
 - Scikit-Learn
 - Pandas
 - NumPy
-
+For run
+Backend
+npm run dev
+For Frontend
+npm run dev
+For admin
+npm run dev
 ---
 In Backend create 
 .env file and code is 
